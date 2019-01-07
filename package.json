@@ -1,0 +1,27 @@
+{
+  "name": "react-component-sc",
+  "version": "1.0.0",
+  "description": "regular template for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scott-x/react-component-sc.git"
+  },
+  "keywords": [
+    "react-template",
+    "react",
+    "template",
+    "scott",
+    "scottxiong",
+    "judy201654321"
+  ],
+  "author": "Scott Xiong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scott-x/react-component-sc/issues"
+  },
+  "homepage": "https://github.com/scott-x/react-component-sc#readme"
+}
