@@ -1,2 +1,2 @@
-import test from './test';
-test("babel is working");
+const name = "scott"
+export default name;
