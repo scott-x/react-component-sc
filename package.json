@@ -6,6 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "babel-register": "^6.26.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/scott-x/react-component-sc.git"
@@ -23,5 +29,8 @@
   "bugs": {
     "url": "https://github.com/scott-x/react-component-sc/issues"
   },
-  "homepage": "https://github.com/scott-x/react-component-sc#readme"
+  "homepage": "https://github.com/scott-x/react-component-sc#readme",
+  "dependencies": {
+    "babel-preset-env": "^1.7.0"
+  }
 }
