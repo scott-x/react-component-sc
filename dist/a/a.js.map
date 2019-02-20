@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/a/a.js"],"names":["a"],"mappings":";;;;;AAAA,IAAMA,IAAI,OAAV;kBACeA,C","file":"a.js","sourcesContent":["const a = \"hello\"\nexport default a;"]}
